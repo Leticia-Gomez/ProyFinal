@@ -1,0 +1,17 @@
+El presente proyecto creará una rama y un archivo
+con el objetivo de colocar en el presente archivo
+lo que se desarrollará en el proyecto, que son la 
+aplicación de comando sencillos del Git, como ser:
+mkdir
+touch
+flow
+init
+clone
+add
+status
+pull
+push
+merge
+log
+reset
+
