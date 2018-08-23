@@ -1,4 +1,8 @@
-  public static void contra() {
+// Programa en el se añadio un   
+// mensaje, el que describe:
+// que este programa sirve para loguearse
+
+public static void contra() {
     //Registro de usuarios
     int numUsers;
     int i;
